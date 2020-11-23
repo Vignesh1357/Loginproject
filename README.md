@@ -1,2 +1,2 @@
 # Loginproject
-#It is a nust a login page made with Tkinter module.
+It is a just a login page made with Tkinter module.
